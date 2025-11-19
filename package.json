@@ -1,0 +1,9 @@
+{
+  "name": "parcial-1-perez-juan",
+  "version": "1.0.0",
+  "description": "Static HTML project for Parcial 1",
+  "scripts": {
+    "build": "echo 'No build step required for static HTML' && exit 0",
+    "dev": "echo 'Static HTML project - open index.html in browser'"
+  }
+}
